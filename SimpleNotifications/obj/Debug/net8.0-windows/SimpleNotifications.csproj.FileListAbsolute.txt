@@ -1,0 +1,14 @@
+C:\Users\NBP603\source\repos\SimpleNotifications\bin\Debug\net8.0-windows\SimpleNotifications.exe
+C:\Users\NBP603\source\repos\SimpleNotifications\bin\Debug\net8.0-windows\SimpleNotifications.deps.json
+C:\Users\NBP603\source\repos\SimpleNotifications\bin\Debug\net8.0-windows\SimpleNotifications.runtimeconfig.json
+C:\Users\NBP603\source\repos\SimpleNotifications\bin\Debug\net8.0-windows\SimpleNotifications.dll
+C:\Users\NBP603\source\repos\SimpleNotifications\bin\Debug\net8.0-windows\SimpleNotifications.pdb
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.AssemblyInfoInputs.cache
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.AssemblyInfo.cs
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.csproj.CoreCompileInputs.cache
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.dll
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\refint\SimpleNotifications.dll
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.pdb
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\SimpleNotifications.genruntimeconfig.cache
+C:\Users\NBP603\source\repos\SimpleNotifications\obj\Debug\net8.0-windows\ref\SimpleNotifications.dll
